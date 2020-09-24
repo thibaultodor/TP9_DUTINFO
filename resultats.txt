@@ -1,0 +1,45 @@
+fr.umontpellier.iut.EmployeVersionProfTest
+  ✓ test_employesAreNotEqual
+  ✓ test_ancienneteCorrecte
+  ✓ test_anciennetesEgalesSiMemesMoisEmbauche
+  ✓ test_hashCodesAreEqual
+  ✓ test_hashCodesDiffer
+  ✓ test_toStringContientBonus
+  ✓ test_anciennetesDifferentesSiMoisEmbaucheDifferents
+  ✓ test_employesAreEqual
+fr.umontpellier.iut.EntrepriseVersionProf1Test
+  ✓ test_getEmployes_avec_5_personnes_embauches
+  ✓ test_getEmployes_avec_une_seul_personne_embauche
+  ✓ test_coherence_entre_les_methodes_getEmployes
+  ✓ test_getEmployes_avec_acune_personne_embauche
+  ✓ test_ordre_getEmployesOrdonnes_bis
+  ✓ test_coherence_equals_dans_getEmployesOrdonnes
+  ✗ test_ordre_getEmployesOrdonnes
+  ✓ test_coherence_entre_les_methodes_getEmployes_bis
+fr.umontpellier.iut.EntrepriseVersionProf2Test
+  ✓ test_distribuerNeChangeParLOrdreDuPersonnel
+  ✓ test_personnelSansDoublons
+  ✓ test_employeLicencie
+  ✗ test_distributionBonusDeuxEmployesAvecBonusInsuffisantPourDernier
+  ✓ test_constructeurInitialiseCollection
+  ✗ test_distributionBonusTroisEmployesEtResteBonus
+  ✓ test_remercierSansEmploye
+  ✗ test_distributionBonusAvecBonusFaible
+  ✓ test_LesMethodesNeChangentPasLaClasseDelePersonnel
+  ✓ test_remercierVireLEmployeLePlusRecentSiEmbauchesMemeMoisJoursDifferents
+  ✓ test_remercierVireLEmployeLePlusRecent
+  ✓ test_remercierNeChangeParLOrdreDuPersonnel
+  ✓ test_remercierDiminueLePersonnel
+  ✓ test_remercierNUtilisePasLicencier
+  ✗ test_employesOrdonnes
+  ✓ test_remercierToutLeMonde
+  ✓ test_dateEmbaucheAJourQuandEmbauche
+fr.umontpellier.iut.GestionDistancesVersionProfTest
+  ✓ test_changement_adresse_implique_changement_indeminiteTransport
+  ✓ test_getIndemniteTransport
+  ✓ test_laCollectionInterneEstUneMapStringInteger
+  ✓ test_getIndemniteTransportAppelleGetDistance
+fr.umontpellier.iut.GestionEmployesVersionProfTest
+  ✓ test_if_main_method_was_implemented
+
+33 / 38 tests réussis
